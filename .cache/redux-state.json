@@ -1,28 +1,18 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1517379703785,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c9b943a669ffe138b7edc4c162ecdc4",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -32,7 +22,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -49,13 +39,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2211a77b78c919e0340ff891cb2f79c8",
+        "contentDigest": "e72db6f7af060f7e71a9b1c94a2dcd03",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -65,7 +55,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -86,13 +76,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d6138a20f3d6f06766d21da9ff15f256",
+        "contentDigest": "8aa9ac0ebaeaa34dfa1e65a5605679d9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -102,7 +92,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -123,13 +113,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "dcb19f651be0b45ab4cdf4dea0ac324b",
+        "contentDigest": "5e604184713616671e8e63c3aa4854a5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -140,7 +130,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -157,13 +147,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a854b64f8afa974c981ac1e2156964e5",
+        "contentDigest": "70ee16f5d81120b806e6f8280fa1eac2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +163,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +180,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ea958bba92244283513c1100e0d5072b",
+        "contentDigest": "0a3d95aa962a1195f8248313612311f2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +197,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,13 +214,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a93aadd94c91b68125d7274fc6bb981c",
+        "contentDigest": "7b6a1ae44ffe4701729209a1f765c1b8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-contentful": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-source-contentful",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby-source-contentful",
       "id": "Plugin gatsby-source-contentful",
       "name": "gatsby-source-contentful",
       "version": "1.3.34",
@@ -244,7 +234,7 @@
         "sourceNodes",
         "onPreExtractQueries"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-source-contentful",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby-source-contentful",
       "packageJson": {
         "name": "gatsby-source-contentful",
         "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
@@ -315,13 +305,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "52e4a25c89fbd93ed8c32e278d2ee125",
+        "contentDigest": "594692ea98a2711aab0ab806d19848fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.30",
@@ -332,7 +322,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -451,13 +441,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f54bce4729e89104372dc25fadcf2683",
+        "contentDigest": "4ea7c160e5746d2a1ee7f08f4bdaf636",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful",
+      "resolve": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "8e1bb7b1766ecc422991c38d26a65bf6",
@@ -467,7 +457,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful",
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing",
       "packageJson": {
         "name": "gatsby-example-using-contentful",
         "description": "Gatsby example site using the Contentful source plugin",
@@ -536,7 +526,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7e5742b8291b0c2ec2e218bf270ea2cb",
+        "contentDigest": "50a2d73e2eb0048162a434a2c780bb92",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -545,16 +535,14 @@
       "siteMetadata": {
         "title": "Brap Brap Woop Woop"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-31T06:21:38.779Z",
+      "buildTime": "2018-01-31T06:57:03.350Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "816ba1a0db915677c554130f7f98feb0",
+        "contentDigest": "0eca3d0df349b50de439ae9361ee8e59",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1738,21 +1726,21 @@
       "jsonName": "products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s.json",
       "internalComponentName": "ComponentProductsC5KsDbWseXy6QegucYAoacS",
       "path": "/products/c5KsDBWseXY6QegucYAoacS/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "componentChunkName": "component---src-templates-product-js",
       "context": {
         "id": "c5KsDBWseXY6QegucYAoacS"
       },
-      "updatedAt": 1517379703811,
+      "updatedAt": 1517381829041,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "id": "SitePage /products/c5KsDBWseXY6QegucYAoacS/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4a59080d27cc4f463d3148b3d5631cc9",
+        "contentDigest": "75a67748f65cf5489b4fec4dac0db037",
         "owner": "internal-data-bridge"
       }
     },
@@ -1761,21 +1749,21 @@
       "jsonName": "products-c-6-dbj-wq-nd-9-sqccegcq-yq-224.json",
       "internalComponentName": "ComponentProductsC6DbjWqNd9SqccegcqYq224",
       "path": "/products/c6dbjWqNd9SqccegcqYq224/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "componentChunkName": "component---src-templates-product-js",
       "context": {
         "id": "c6dbjWqNd9SqccegcqYq224"
       },
-      "updatedAt": 1517379703813,
+      "updatedAt": 1517381829042,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "id": "SitePage /products/c6dbjWqNd9SqccegcqYq224/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b591e33b2806e6cb063cf35dbaf90dbd",
+        "contentDigest": "687ed90da15bdb15cb401d0c56238502",
         "owner": "internal-data-bridge"
       }
     },
@@ -1784,21 +1772,21 @@
       "jsonName": "products-c-3-d-vq-i-yj-4-d-owwc-ku-6-sgq-ogg.json",
       "internalComponentName": "ComponentProductsC3DVqIYj4DOwwcKu6SgqOgg",
       "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "componentChunkName": "component---src-templates-product-js",
       "context": {
         "id": "c3DVqIYj4dOwwcKu6sgqOgg"
       },
-      "updatedAt": 1517379703813,
+      "updatedAt": 1517381829043,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "id": "SitePage /products/c3DVqIYj4dOwwcKu6sgqOgg/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c8347686b52c6cead8559726ed7210df",
+        "contentDigest": "018e3cb8306a7abf463f7714cb949c1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -1807,21 +1795,21 @@
       "jsonName": "products-c-4-bqrajv-a-8-e-6-qwgkieoqmq-o.json",
       "internalComponentName": "ComponentProductsC4BqrajvA8E6QwgkieoqmqO",
       "path": "/products/c4BqrajvA8E6qwgkieoqmqO/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "componentChunkName": "component---src-templates-product-js",
       "context": {
         "id": "c4BqrajvA8E6qwgkieoqmqO"
       },
-      "updatedAt": 1517379703814,
+      "updatedAt": 1517381829043,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
       "id": "SitePage /products/c4BqrajvA8E6qwgkieoqmqO/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "59e7bfc47fdf04dd1cb51499339d6d1b",
+        "contentDigest": "9bbddfb4984c1b7b9b99c58f81c42249",
         "owner": "internal-data-bridge"
       }
     },
@@ -1830,21 +1818,21 @@
       "jsonName": "categories-c-7-l-an-cobuu-wy-sqks-6-w-aw-y-2-a.json",
       "internalComponentName": "ComponentCategoriesC7LAnCobuuWySqks6WAwY2A",
       "path": "/categories/c7LAnCobuuWYSqks6wAwY2a/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/category.js",
       "componentChunkName": "component---src-templates-category-js",
       "context": {
         "id": "c7LAnCobuuWYSqks6wAwY2a"
       },
-      "updatedAt": 1517379703834,
+      "updatedAt": 1517381829053,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/category.js",
       "id": "SitePage /categories/c7LAnCobuuWYSqks6wAwY2a/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6507a3d4c0ac40136d9194610b784bb7",
+        "contentDigest": "fe16068b2de60680b2482b1c2ba5e815",
         "owner": "internal-data-bridge"
       }
     },
@@ -1853,21 +1841,21 @@
       "jsonName": "categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json",
       "internalComponentName": "ComponentCategoriesC24DpgbDeGEaYy8Ms4Y8Qmq",
       "path": "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/category.js",
       "componentChunkName": "component---src-templates-category-js",
       "context": {
         "id": "c24DPGBDeGEaYy8ms4Y8QMQ"
       },
-      "updatedAt": 1517379703836,
+      "updatedAt": 1517381829054,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/category.js",
       "id": "SitePage /categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5808cb19c929493268236a302b38fab9",
+        "contentDigest": "a0251a8e860fe186747feaeecd23d521",
         "owner": "internal-data-bridge"
       }
     },
@@ -1876,19 +1864,19 @@
       "jsonName": "image-api.json",
       "internalComponentName": "ComponentImageApi",
       "path": "/image-api/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/image-api.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/image-api.js",
       "componentChunkName": "component---src-pages-image-api-js",
       "context": {},
-      "updatedAt": 1517379703858,
+      "updatedAt": 1517381829063,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/image-api.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/image-api.js",
       "id": "SitePage /image-api/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9c6c35029593701e273ef0a7740934e3",
+        "contentDigest": "bb7d163a1565c2fdacbd36b50ae8ee32",
         "owner": "internal-data-bridge"
       }
     },
@@ -1897,19 +1885,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/index.js",
+      "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1517379703860,
+      "updatedAt": 1517381829064,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/index.js",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "337e4927e5e94e2fc74c60ce55f701b9",
+        "contentDigest": "94bca40ebba31af92d1bf300f3785273",
         "owner": "internal-data-bridge"
       }
     }
