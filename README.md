@@ -1,14 +1,6 @@
-# Clean Start
----
-#### The plain and simple starter.
+# Using Contentful
 
-# Installation
----
-Install this starter (assuming Gatsby is installed) by running from your CLI: 
-```
-gatsby new clean gh:brianstone/gatsby-starter-clean
-```
+https://using-contentful.netlify.com
 
-# Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/brianstone/gatsby-starter-clean)
+Example site that demonstrates how to build Gatsby sites that pull data from the
+[Contentful CMS API](https://www.contentful.com/).

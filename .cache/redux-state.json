@@ -1,0 +1,2062 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1517379703785,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4c9b943a669ffe138b7edc4c162ecdc4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2211a77b78c919e0340ff891cb2f79c8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d6138a20f3d6f06766d21da9ff15f256",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dcb19f651be0b45ab4cdf4dea0ac324b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a854b64f8afa974c981ac1e2156964e5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea958bba92244283513c1100e0d5072b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a93aadd94c91b68125d7274fc6bb981c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-contentful": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-source-contentful",
+      "id": "Plugin gatsby-source-contentful",
+      "name": "gatsby-source-contentful",
+      "version": "1.3.34",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "i36bq3acg6sq",
+        "accessToken": "fdc5106094c2bb011b3d070801b880af1e31ab3dd70ebcff96e5fe73b75d5b0a"
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "sourceNodes",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-source-contentful",
+      "packageJson": {
+        "name": "gatsby-source-contentful",
+        "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+        "version": "1.3.34",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin"
+        ],
+        "author": {
+          "name": "Marcus Ericsson",
+          "email": "mericsson@gmail.com",
+          "url": "mericsson.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "base64-img",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "contentful",
+            "version": "^4.3.0"
+          },
+          {
+            "name": "deep-map",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "json-stringify-safe",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "qs",
+            "version": "^6.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "52e4a25c89fbd93ed8c32e278d2ee125",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.30",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.30",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f54bce4729e89104372dc25fadcf2683",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/rupertdance/Code/contentful-testing/using-contentful",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "8e1bb7b1766ecc422991c38d26a65bf6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/rupertdance/Code/contentful-testing/using-contentful",
+      "packageJson": {
+        "name": "gatsby-example-using-contentful",
+        "description": "Gatsby example site using the Contentful source plugin",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Marcus Ericsson <mericsson@gmail.com> (mericsson.com)",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "latest"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "latest"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "latest"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "latest"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "latest"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "latest"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.16.4"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.15.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.15.8"
+          },
+          {
+            "name": "typography-breakpoint-constants",
+            "version": "^0.14.0"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7e5742b8291b0c2ec2e218bf270ea2cb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Brap Brap Woop Woop"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-01-31T06:21:38.779Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "816ba1a0db915677c554130f7f98feb0",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c7LAnCobuuWYSqks6wAwY2atitleTextNode": {
+      "id": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+      "parent": "c7LAnCobuuWYSqks6wAwY2a",
+      "children": [
+        "c7LAnCobuuWYSqks6wAwY2atitleTextNode >>> MarkdownRemark"
+      ],
+      "title": "Home & Kitchen",
+      "internal": {
+        "type": "contentfulCategoryTitleTextNode",
+        "mediaType": "text/markdown",
+        "content": "Home & Kitchen",
+        "contentDigest": "71520a45fe8b5ecded737e074a6b30a0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode": {
+      "id": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
+      "parent": "c7LAnCobuuWYSqks6wAwY2a",
+      "children": [
+        "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "categoryDescription": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
+      "internal": {
+        "type": "contentfulCategoryCategoryDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
+        "contentDigest": "24709e2bdb88b89104c215e6b5492bf8",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": {
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+      "parent": "c24DPGBDeGEaYy8ms4Y8QMQ",
+      "children": [
+        "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode >>> MarkdownRemark"
+      ],
+      "title": "Toys",
+      "internal": {
+        "type": "contentfulCategoryTitleTextNode",
+        "mediaType": "text/markdown",
+        "content": "Toys",
+        "contentDigest": "66d0af2d5da0109dc2aae67829f7d4d4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode": {
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
+      "parent": "c24DPGBDeGEaYy8ms4Y8QMQ",
+      "children": [
+        "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "categoryDescription": "Shop for toys, games, educational aids",
+      "internal": {
+        "type": "contentfulCategoryCategoryDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Shop for toys, games, educational aids",
+        "contentDigest": "c3cd3eaea58a115e968573664df3a603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Category": {
+      "id": "Category",
+      "parent": null,
+      "children": [],
+      "name": "Category",
+      "displayField": "title",
+      "description": null,
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "0418f4c2792c0c223b79211e81387e4d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7LAnCobuuWYSqks6wAwY2a": {
+      "icon___NODE": "c6m5AJ9vMPKc8OUoQeoCS4o",
+      "product___NODE": [
+        "c6dbjWqNd9SqccegcqYq224",
+        "c3DVqIYj4dOwwcKu6sgqOgg",
+        "c4BqrajvA8E6qwgkieoqmqO"
+      ],
+      "title___NODE": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+      "categoryDescription___NODE": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
+      "id": "c7LAnCobuuWYSqks6wAwY2a",
+      "contentful_id": "7LAnCobuuWYSqks6wAwY2a",
+      "createdAt": "2018-01-31T04:38:55.718Z",
+      "updatedAt": "2018-01-31T04:38:55.718Z",
+      "parent": "Category",
+      "children": [
+        "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+        "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulCategory",
+        "contentDigest": "0146e0c0f9da19c6a83284a215cb5049",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQ": {
+      "icon___NODE": "c6t4HKjytPi0mYgs240wkG",
+      "product___NODE": [
+        "c5KsDBWseXY6QegucYAoacS"
+      ],
+      "title___NODE": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+      "categoryDescription___NODE": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQ",
+      "contentful_id": "24DPGBDeGEaYy8ms4Y8QMQ",
+      "createdAt": "2018-01-31T04:38:55.673Z",
+      "updatedAt": "2018-01-31T04:38:55.673Z",
+      "parent": "Category",
+      "children": [
+        "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+        "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulCategory",
+        "contentDigest": "3b2d691c21852ff63aa94ad792f22cb8",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": {
+      "id": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+      "parent": "JrePkDVYomE8AwcuCUyMi",
+      "children": [
+        "JrePkDVYomE8AwcuCUyMicompanyNameTextNode >>> MarkdownRemark"
+      ],
+      "companyName": "Playsam",
+      "internal": {
+        "type": "contentfulBrandCompanyNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Playsam",
+        "contentDigest": "1d2de5c3096635ca01f6ab4131252039",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode": {
+      "id": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
+      "parent": "JrePkDVYomE8AwcuCUyMi",
+      "children": [
+        "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "companyDescription": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
+      "internal": {
+        "type": "contentfulBrandCompanyDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
+        "contentDigest": "f27a71b7f2ee9eabad3335e0c03da951",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": {
+      "id": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+      "parent": "c4LgMotpNF6W20YKmuemW0a",
+      "children": [
+        "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode >>> MarkdownRemark"
+      ],
+      "companyName": "Lemnos",
+      "internal": {
+        "type": "contentfulBrandCompanyNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lemnos",
+        "contentDigest": "7b0e3f7cc613d34aafa689516e96056e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode": {
+      "id": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
+      "parent": "c4LgMotpNF6W20YKmuemW0a",
+      "children": [
+        "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "companyDescription": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
+      "internal": {
+        "type": "contentfulBrandCompanyDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
+        "contentDigest": "fa3b5588d6eb6ed5a367ea48e5e47be2",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode": {
+      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+      "parent": "c651CQ8rLoIYCeY6G0QG22q",
+      "children": [
+        "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode >>> MarkdownRemark"
+      ],
+      "companyName": "Normann Copenhagen",
+      "internal": {
+        "type": "contentfulBrandCompanyNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Normann Copenhagen",
+        "contentDigest": "5fb9d019c3646f6fee84172952337463",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode": {
+      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
+      "parent": "c651CQ8rLoIYCeY6G0QG22q",
+      "children": [
+        "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "companyDescription": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
+      "internal": {
+        "type": "contentfulBrandCompanyDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
+        "contentDigest": "8010f6e93f3a7dbca56c041a46d4ab77",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Brand": {
+      "id": "Brand",
+      "parent": null,
+      "children": [],
+      "name": "Brand",
+      "displayField": "companyName",
+      "description": null,
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "b7cc6c33f996216ec368e79794f50089",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "JrePkDVYomE8AwcuCUyMi": {
+      "website": "http://playsam.com/",
+      "logo___NODE": "c4zj1ZOfHgQ8oqgaSKm4Qo2",
+      "product___NODE": [
+        "c5KsDBWseXY6QegucYAoacS"
+      ],
+      "companyName___NODE": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+      "companyDescription___NODE": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
+      "id": "JrePkDVYomE8AwcuCUyMi",
+      "contentful_id": "JrePkDVYomE8AwcuCUyMi",
+      "createdAt": "2018-01-31T04:38:54.751Z",
+      "updatedAt": "2018-01-31T04:38:54.751Z",
+      "parent": "Brand",
+      "children": [
+        "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+        "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBrand",
+        "contentDigest": "74e2661204c95f8930b9e79572435eec",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4LgMotpNF6W20YKmuemW0a": {
+      "website": "http://www.lemnos.jp/en/",
+      "email": "info@acgears.com",
+      "phone": [
+        "+1 212 260 2269"
+      ],
+      "logo___NODE": "c2Y8LhXLnYAYqKCGEWG4EKI",
+      "product___NODE": [
+        "c4BqrajvA8E6qwgkieoqmqO"
+      ],
+      "companyName___NODE": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+      "companyDescription___NODE": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
+      "id": "c4LgMotpNF6W20YKmuemW0a",
+      "contentful_id": "4LgMotpNF6W20YKmuemW0a",
+      "createdAt": "2018-01-31T04:38:54.733Z",
+      "updatedAt": "2018-01-31T04:38:54.733Z",
+      "parent": "Brand",
+      "children": [
+        "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+        "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBrand",
+        "contentDigest": "2d3b01f1f668b44bb5be0a9be4d8fc58",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c651CQ8rLoIYCeY6G0QG22q": {
+      "website": "http://www.normann-copenhagen.com/",
+      "twitter": "https://twitter.com/NormannCPH",
+      "email": "normann@normann-copenhagen.com",
+      "phone": [
+        "+45 35 55 44 59"
+      ],
+      "logo___NODE": "c3wtvPBbBjiMKqKKga8I2Cu",
+      "product___NODE": [
+        "c6dbjWqNd9SqccegcqYq224",
+        "c3DVqIYj4dOwwcKu6sgqOgg"
+      ],
+      "companyName___NODE": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+      "companyDescription___NODE": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
+      "id": "c651CQ8rLoIYCeY6G0QG22q",
+      "contentful_id": "651CQ8rLoIYCeY6G0QG22q",
+      "createdAt": "2018-01-31T04:38:54.661Z",
+      "updatedAt": "2018-01-31T04:38:54.661Z",
+      "parent": "Brand",
+      "children": [
+        "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+        "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBrand",
+        "contentDigest": "be187570d133ea349c11fb6838c466f0",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c5KsDBWseXY6QegucYAoacSproductNameTextNode": {
+      "id": "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
+      "parent": "c5KsDBWseXY6QegucYAoacS",
+      "children": [
+        "c5KsDBWseXY6QegucYAoacSproductNameTextNode >>> MarkdownRemark"
+      ],
+      "productName": "Playsam Streamliner Classic Car, hella whut",
+      "internal": {
+        "type": "contentfulProductProductNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Playsam Streamliner Classic Car, hella whut",
+        "contentDigest": "adfefbd5e7d3e5a2d6e89a89eeedae75",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode": {
+      "id": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode",
+      "parent": "c5KsDBWseXY6QegucYAoacS",
+      "children": [
+        "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "productDescription": "A classic Playsam design, the Streamliner Classic Car has been selected as Swedish Design Classic by the Swedish National Museum for its inventive style and sleek surface. It's no wonder that this wooden car has also been a long-standing favorite for children both big and small!",
+      "internal": {
+        "type": "contentfulProductProductDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "A classic Playsam design, the Streamliner Classic Car has been selected as Swedish Design Classic by the Swedish National Museum for its inventive style and sleek surface. It's no wonder that this wooden car has also been a long-standing favorite for children both big and small!",
+        "contentDigest": "d27a98d8abd9865c279017aed14f2766",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6dbjWqNd9SqccegcqYq224productNameTextNode": {
+      "id": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+      "parent": "c6dbjWqNd9SqccegcqYq224",
+      "children": [
+        "c6dbjWqNd9SqccegcqYq224productNameTextNode >>> MarkdownRemark"
+      ],
+      "productName": "6 Bottled, Mixed",
+      "internal": {
+        "type": "contentfulProductProductNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "6 Bottled, Mixed",
+        "contentDigest": "3829d85ade894debce3aadbeb44301ce",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": {
+      "id": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+      "parent": "c6dbjWqNd9SqccegcqYq224",
+      "children": [
+        "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "productDescription": "6 fine red whines, get around it.",
+      "internal": {
+        "type": "contentfulProductProductDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "6 fine red whines, get around it.",
+        "contentDigest": "02cbe2f7d4bc4d25aa8815e3155a1c42",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": {
+      "id": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+      "parent": "c3DVqIYj4dOwwcKu6sgqOgg",
+      "children": [
+        "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode >>> MarkdownRemark"
+      ],
+      "productName": "Hudson Wall Cup",
+      "internal": {
+        "type": "contentfulProductProductNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Hudson Wall Cup",
+        "contentDigest": "927daa584fb961e59edbd07f921b916c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": {
+      "id": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
+      "parent": "c3DVqIYj4dOwwcKu6sgqOgg",
+      "children": [
+        "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "productDescription": "Wall Hanging Glass Flower Vase and Terrarium",
+      "internal": {
+        "type": "contentfulProductProductDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Wall Hanging Glass Flower Vase and Terrarium",
+        "contentDigest": "da605021a35b1da89c6810fb46275a58",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode": {
+      "id": "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode",
+      "parent": "c4BqrajvA8E6qwgkieoqmqO",
+      "children": [
+        "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode >>> MarkdownRemark"
+      ],
+      "productName": "SoSo Wall Clock",
+      "internal": {
+        "type": "contentfulProductProductNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "SoSo Wall Clock",
+        "contentDigest": "2bd6c9f1667f2fbb59343e203cb0b7bf",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode": {
+      "id": "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode",
+      "parent": "c4BqrajvA8E6qwgkieoqmqO",
+      "children": [
+        "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode >>> MarkdownRemark"
+      ],
+      "productDescription": "The newly released SoSo Clock from Lemnos marries simple, clean design and bold, striking features. Its saturated marigold face is a lively pop of color to white or grey walls, but would also pair nicely with navy and maroon. Where most clocks feature numbers at the border of the clock, the SoSo brings them in tight to the middle, leaving a wide space between the numbers and the slight frame. The hour hand provides a nice interruption to the black and yellow of the clock - it is featured in a brilliant white. Despite its bold color and contrast, the SoSo maintains a clean, pure aesthetic that is suitable to a variety of contemporary interiors.",
+      "internal": {
+        "type": "contentfulProductProductDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "The newly released SoSo Clock from Lemnos marries simple, clean design and bold, striking features. Its saturated marigold face is a lively pop of color to white or grey walls, but would also pair nicely with navy and maroon. Where most clocks feature numbers at the border of the clock, the SoSo brings them in tight to the middle, leaving a wide space between the numbers and the slight frame. The hour hand provides a nice interruption to the black and yellow of the clock - it is featured in a brilliant white. Despite its bold color and contrast, the SoSo maintains a clean, pure aesthetic that is suitable to a variety of contemporary interiors.",
+        "contentDigest": "c5b4a61c6d533216a0efe0d4ee66c98b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Product": {
+      "id": "Product",
+      "parent": null,
+      "children": [],
+      "name": "Product",
+      "displayField": "productName",
+      "description": null,
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "d9822da16231c6bd9df08d882174266f",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5KsDBWseXY6QegucYAoacS": {
+      "slug": "playsam-streamliner-classic-car-espresso",
+      "sizetypecolor": "Length: 135 mm | color: espresso, green, or icar (white)",
+      "tags": [
+        "wood",
+        "toy",
+        "car",
+        "sweden",
+        "design"
+      ],
+      "price": 44,
+      "quantity": 56,
+      "sku": "B001R6JUZ2",
+      "website": "http://www.amazon.com/dp/B001R6JUZ2/",
+      "image___NODE": [
+        "wtrHxeu3zEoEce2MokCSi"
+      ],
+      "categories___NODE": [
+        "c24DPGBDeGEaYy8ms4Y8QMQ"
+      ],
+      "brand___NODE": "JrePkDVYomE8AwcuCUyMi",
+      "productName___NODE": "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
+      "productDescription___NODE": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode",
+      "id": "c5KsDBWseXY6QegucYAoacS",
+      "contentful_id": "5KsDBWseXY6QegucYAoacS",
+      "createdAt": "2018-01-31T04:38:54.067Z",
+      "updatedAt": "2018-01-31T04:57:42.084Z",
+      "parent": "Product",
+      "children": [
+        "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
+        "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulProduct",
+        "contentDigest": "a0bb601739c899017acae8d5a86a51fc",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c6dbjWqNd9SqccegcqYq224": {
+      "slug": "whisk-beater",
+      "sizetypecolor": "0.8 x 0.8 x 11.2 inches; 1.6 ounces",
+      "tags": [
+        "kitchen",
+        "accessories",
+        "whisk",
+        "scandinavia",
+        "design"
+      ],
+      "price": 22,
+      "quantity": 89,
+      "sku": "B0081F2CCK",
+      "website": "http://www.amazon.com/dp/B0081F2CCK/",
+      "image___NODE": [
+        "c10TkaLheGeQG6qQGqWYqUI"
+      ],
+      "categories___NODE": [
+        "c7LAnCobuuWYSqks6wAwY2a"
+      ],
+      "brand___NODE": "c651CQ8rLoIYCeY6G0QG22q",
+      "productName___NODE": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+      "productDescription___NODE": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+      "id": "c6dbjWqNd9SqccegcqYq224",
+      "contentful_id": "6dbjWqNd9SqccegcqYq224",
+      "createdAt": "2018-01-31T04:38:54.685Z",
+      "updatedAt": "2018-01-31T06:16:40.901Z",
+      "parent": "Product",
+      "children": [
+        "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+        "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulProduct",
+        "contentDigest": "296383394beac9ddc4c7a928e1914e27",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3DVqIYj4dOwwcKu6sgqOgg": {
+      "slug": "hudson-wall-cup",
+      "sizetypecolor": "3 x 3 x 5 inches; 5.3 ounces",
+      "tags": [
+        "vase",
+        "flowers",
+        "accessories"
+      ],
+      "price": 11,
+      "quantity": 101,
+      "sku": "B00E82D7I8",
+      "website": "http://www.amazon.com/dp/B00E82D7I8/",
+      "image___NODE": [
+        "Xc0ny7GWsMEMCeASWO2um"
+      ],
+      "categories___NODE": [
+        "c7LAnCobuuWYSqks6wAwY2a"
+      ],
+      "brand___NODE": "c651CQ8rLoIYCeY6G0QG22q",
+      "productName___NODE": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+      "productDescription___NODE": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
+      "id": "c3DVqIYj4dOwwcKu6sgqOgg",
+      "contentful_id": "3DVqIYj4dOwwcKu6sgqOgg",
+      "createdAt": "2018-01-31T04:38:54.675Z",
+      "updatedAt": "2018-01-31T04:38:54.675Z",
+      "parent": "Product",
+      "children": [
+        "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+        "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulProduct",
+        "contentDigest": "e95856f73f427318eed315e9a6efa5d6",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4BqrajvA8E6qwgkieoqmqO": {
+      "slug": "soso-wall-clock",
+      "sizetypecolor": "10\" x 2.2\"",
+      "tags": [
+        "home décor",
+        "clocks",
+        "interior design",
+        "yellow",
+        "gifts"
+      ],
+      "price": 120,
+      "quantity": 3,
+      "sku": "B00MG4ULK2",
+      "website": "http://store.dwell.com/soso-wall-clock.html",
+      "image___NODE": [
+        "KTRF62Q4gg60q6WCsWKw8"
+      ],
+      "categories___NODE": [
+        "c7LAnCobuuWYSqks6wAwY2a"
+      ],
+      "brand___NODE": "c4LgMotpNF6W20YKmuemW0a",
+      "productName___NODE": "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode",
+      "productDescription___NODE": "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode",
+      "id": "c4BqrajvA8E6qwgkieoqmqO",
+      "contentful_id": "4BqrajvA8E6qwgkieoqmqO",
+      "createdAt": "2018-01-31T04:38:54.673Z",
+      "updatedAt": "2018-01-31T04:38:54.673Z",
+      "parent": "Product",
+      "children": [
+        "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode",
+        "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulProduct",
+        "contentDigest": "97f8eab649a1e18e69a24eec9757724e",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c10TkaLheGeQG6qQGqWYqUI": {
+      "id": "c10TkaLheGeQG6qQGqWYqUI",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/10TkaLheGeQG6qQGqWYqUI/0b14fa6e2a7f864a9e99b0b346663c9e/ryugj83mqwa1asojwtwb.jpg",
+        "details": {
+          "size": 28435,
+          "image": {
+            "width": 450,
+            "height": 600
+          }
+        },
+        "fileName": "ryugj83mqwa1asojwtwb.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Whisk beaters",
+      "description": "Merchandise photo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "3a65397d4974f31e96ab68092319fef3",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6s3iG2OVmoUcosmA8ocqsG": {
+      "id": "c6s3iG2OVmoUcosmA8ocqsG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/6s3iG2OVmoUcosmA8ocqsG/6d49201f9273602dd672a47748fe8109/1418244847_Streamline-18-256__1_.png",
+        "details": {
+          "size": 4244,
+          "image": {
+            "width": 250,
+            "height": 250
+          }
+        },
+        "fileName": "1418244847_Streamline-18-256 (1).png",
+        "contentType": "image/png"
+      },
+      "title": "House icon",
+      "description": "Category icon set",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "1b342d0425140d318480f7c11895c9b7",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3wtvPBbBjiMKqKKga8I2Cu": {
+      "id": "c3wtvPBbBjiMKqKKga8I2Cu",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/3wtvPBbBjiMKqKKga8I2Cu/0c1388ce3828862f626556004569c0bc/zJYzDlGk.jpeg",
+        "details": {
+          "size": 12302,
+          "image": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "fileName": "zJYzDlGk.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Normann Copenhagen",
+      "description": "Brand logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "7fd04ac13d421f0e8e1ded4d55a34451",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Xc0ny7GWsMEMCeASWO2um": {
+      "id": "Xc0ny7GWsMEMCeASWO2um",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/Xc0ny7GWsMEMCeASWO2um/be98a34c4abed85497573b21d782a463/jqvtazcyfwseah9fmysz.jpg",
+        "details": {
+          "size": 48751,
+          "image": {
+            "width": 600,
+            "height": 600
+          }
+        },
+        "fileName": "jqvtazcyfwseah9fmysz.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Hudson Wall Cup ",
+      "description": "Merchandise image",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "7d919bd597210350370b83f6b8fcb27e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "wtrHxeu3zEoEce2MokCSi": {
+      "id": "wtrHxeu3zEoEce2MokCSi",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/wtrHxeu3zEoEce2MokCSi/14a68e1e6ee30fc1dee7478b67777e6d/quwowooybuqbl6ntboz3.jpg",
+        "details": {
+          "size": 27187,
+          "image": {
+            "width": 600,
+            "height": 446
+          }
+        },
+        "fileName": "quwowooybuqbl6ntboz3.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Playsam Streamliner",
+      "description": "Merchandise photo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "0fcbc00de8badb158a68db6e5995329d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6t4HKjytPi0mYgs240wkG": {
+      "id": "c6t4HKjytPi0mYgs240wkG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/6t4HKjytPi0mYgs240wkG/221218ab61d61b2c89585c1b1bd6364c/toys_512pxGREY.png",
+        "details": {
+          "size": 6744,
+          "image": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "fileName": "toys_512pxGREY.png",
+        "contentType": "image/png"
+      },
+      "title": "Toys",
+      "description": "Category icon set",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "251bbe9526491b58d6987876e577afac",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1MgbdJNTsMWKI0W68oYqkU": {
+      "id": "c1MgbdJNTsMWKI0W68oYqkU",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/1MgbdJNTsMWKI0W68oYqkU/cf80687b21ade9e452de37ffb0fdd677/9ef190c59f0d375c0dea58b58a4bc1f0.jpeg",
+        "details": {
+          "size": 44089,
+          "image": {
+            "width": 500,
+            "height": 500
+          }
+        },
+        "fileName": "9ef190c59f0d375c0dea58b58a4bc1f0.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Chive logo",
+      "description": "Brand logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "b28c678155e4d16fa3ca79fa2d68d274",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "KTRF62Q4gg60q6WCsWKw8": {
+      "id": "KTRF62Q4gg60q6WCsWKw8",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/KTRF62Q4gg60q6WCsWKw8/04c193819828073eb9f89841e93abed7/soso.clock.jpg",
+        "details": {
+          "size": 66927,
+          "image": {
+            "width": 1000,
+            "height": 1000
+          }
+        },
+        "fileName": "soso.clock.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "SoSo Wall Clock",
+      "description": "by Lemnos",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "199ec9f3092a677df8090041a20e59e0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6m5AJ9vMPKc8OUoQeoCS4o": {
+      "id": "c6m5AJ9vMPKc8OUoQeoCS4o",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/6m5AJ9vMPKc8OUoQeoCS4o/2083071edcb3fe64b19536947b7bf496/1418244847_Streamline-18-256.png",
+        "details": {
+          "size": 2977,
+          "image": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "fileName": "1418244847_Streamline-18-256.png",
+        "contentType": "image/png"
+      },
+      "title": "Home and Kitchen",
+      "description": "category icon",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "e091d4e06de4d7148b4bacaf434701a3",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2Y8LhXLnYAYqKCGEWG4EKI": {
+      "id": "c2Y8LhXLnYAYqKCGEWG4EKI",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/2Y8LhXLnYAYqKCGEWG4EKI/da56ac72e164d17a58a59e8c0c8e4fe7/lemnos-logo.jpg",
+        "details": {
+          "size": 7149,
+          "image": {
+            "width": 175,
+            "height": 32
+          }
+        },
+        "fileName": "lemnos-logo.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Lemnos",
+      "description": "company logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "522e3b816b57e85295e5c0575ba9ba31",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4zj1ZOfHgQ8oqgaSKm4Qo2": {
+      "id": "c4zj1ZOfHgQ8oqgaSKm4Qo2",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/i36bq3acg6sq/4zj1ZOfHgQ8oqgaSKm4Qo2/c8669d2ee6b4832cbda6c0d0e4208a28/playsam.jpg",
+        "details": {
+          "size": 7003,
+          "image": {
+            "width": 100,
+            "height": 100
+          }
+        },
+        "fileName": "playsam.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Playsam",
+      "description": "Brand logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "6bc007a1893501e94533bdd1799e95b3",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7LAnCobuuWYSqks6wAwY2atitleTextNode >>> MarkdownRemark": {
+      "id": "c7LAnCobuuWYSqks6wAwY2atitleTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+      "internal": {
+        "content": "Home & Kitchen",
+        "contentDigest": "78a02b21ec01244cf44810025b7e2cdb",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+        "parent": "c7LAnCobuuWYSqks6wAwY2atitleTextNode"
+      },
+      "excerpt": ""
+    },
+    "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
+      "internal": {
+        "content": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
+        "contentDigest": "955f0c0aefcaa5c8d0c4d043da7366af",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
+        "parent": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode >>> MarkdownRemark": {
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+      "internal": {
+        "content": "Toys",
+        "contentDigest": "4121707b5b7ce04b1e510d458020126e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+        "parent": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode"
+      },
+      "excerpt": ""
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
+      "internal": {
+        "content": "Shop for toys, games, educational aids",
+        "contentDigest": "c3105472c0f59c1207277bb4343e4339",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
+        "parent": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "JrePkDVYomE8AwcuCUyMicompanyNameTextNode >>> MarkdownRemark": {
+      "id": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+      "internal": {
+        "content": "Playsam",
+        "contentDigest": "f3180fae2c8a98a0e0032b41012b79f8",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+        "parent": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode >>> MarkdownRemark": {
+      "id": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
+      "internal": {
+        "content": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
+        "contentDigest": "2d90765f8eed4281abcdfca249838c29",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
+        "parent": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode >>> MarkdownRemark": {
+      "id": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+      "internal": {
+        "content": "Lemnos",
+        "contentDigest": "d67f66ed1e57369622ff8a5762ca39b4",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+        "parent": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
+      "internal": {
+        "content": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
+        "contentDigest": "b2056a7723b72025c849156cc0d04bfa",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
+        "parent": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode >>> MarkdownRemark": {
+      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+      "internal": {
+        "content": "Normann Copenhagen",
+        "contentDigest": "424b6c0e21f28dc4094844c6fee3312a",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+        "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
+      "internal": {
+        "content": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
+        "contentDigest": "d365953e0d3fd94c893403c35f934188",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
+        "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c5KsDBWseXY6QegucYAoacSproductNameTextNode >>> MarkdownRemark": {
+      "id": "c5KsDBWseXY6QegucYAoacSproductNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
+      "internal": {
+        "content": "Playsam Streamliner Classic Car, hella whut",
+        "contentDigest": "3628280247a301676b0ba67160e18882",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
+        "parent": "c5KsDBWseXY6QegucYAoacSproductNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode",
+      "internal": {
+        "content": "A classic Playsam design, the Streamliner Classic Car has been selected as Swedish Design Classic by the Swedish National Museum for its inventive style and sleek surface. It's no wonder that this wooden car has also been a long-standing favorite for children both big and small!",
+        "contentDigest": "8ddd8b5736abfa7a5cb57b2e439cd356",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode",
+        "parent": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c6dbjWqNd9SqccegcqYq224productNameTextNode >>> MarkdownRemark": {
+      "id": "c6dbjWqNd9SqccegcqYq224productNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+      "internal": {
+        "content": "6 Bottled, Mixed",
+        "contentDigest": "785b2bd5e1027142d9b6cecdee99b605",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+        "parent": "c6dbjWqNd9SqccegcqYq224productNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+      "internal": {
+        "content": "6 fine red whines, get around it.",
+        "contentDigest": "c03d2005b6e5dd4aae1c66be649cd33d",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+        "parent": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode >>> MarkdownRemark": {
+      "id": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+      "internal": {
+        "content": "Hudson Wall Cup",
+        "contentDigest": "36f180ae2a60f28cb3e2c52d4b1e62e0",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+        "parent": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
+      "internal": {
+        "content": "Wall Hanging Glass Flower Vase and Terrarium",
+        "contentDigest": "c9085dda49c52e619febb5252a126952",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
+        "parent": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode >>> MarkdownRemark": {
+      "id": "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode",
+      "internal": {
+        "content": "SoSo Wall Clock",
+        "contentDigest": "5971ba6ef6c338fd8cc26397cb6ca2f0",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode",
+        "parent": "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode"
+      },
+      "excerpt": ""
+    },
+    "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode >>> MarkdownRemark": {
+      "id": "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode",
+      "internal": {
+        "content": "The newly released SoSo Clock from Lemnos marries simple, clean design and bold, striking features. Its saturated marigold face is a lively pop of color to white or grey walls, but would also pair nicely with navy and maroon. Where most clocks feature numbers at the border of the clock, the SoSo brings them in tight to the middle, leaving a wide space between the numbers and the slight frame. The hour hand provides a nice interruption to the black and yellow of the clock - it is featured in a brilliant white. Despite its bold color and contrast, the SoSo maintains a clean, pure aesthetic that is suitable to a variety of contemporary interiors.",
+        "contentDigest": "cfd24922da7b40c198e8e6afa2d351eb",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode",
+        "parent": "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode"
+      },
+      "excerpt": ""
+    },
+    "SitePage /products/c5KsDBWseXY6QegucYAoacS/": {
+      "layout": "index",
+      "jsonName": "products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s.json",
+      "internalComponentName": "ComponentProductsC5KsDbWseXy6QegucYAoacS",
+      "path": "/products/c5KsDBWseXY6QegucYAoacS/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentChunkName": "component---src-templates-product-js",
+      "context": {
+        "id": "c5KsDBWseXY6QegucYAoacS"
+      },
+      "updatedAt": 1517379703811,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "id": "SitePage /products/c5KsDBWseXY6QegucYAoacS/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4a59080d27cc4f463d3148b3d5631cc9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/c6dbjWqNd9SqccegcqYq224/": {
+      "layout": "index",
+      "jsonName": "products-c-6-dbj-wq-nd-9-sqccegcq-yq-224.json",
+      "internalComponentName": "ComponentProductsC6DbjWqNd9SqccegcqYq224",
+      "path": "/products/c6dbjWqNd9SqccegcqYq224/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentChunkName": "component---src-templates-product-js",
+      "context": {
+        "id": "c6dbjWqNd9SqccegcqYq224"
+      },
+      "updatedAt": 1517379703813,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "id": "SitePage /products/c6dbjWqNd9SqccegcqYq224/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b591e33b2806e6cb063cf35dbaf90dbd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/c3DVqIYj4dOwwcKu6sgqOgg/": {
+      "layout": "index",
+      "jsonName": "products-c-3-d-vq-i-yj-4-d-owwc-ku-6-sgq-ogg.json",
+      "internalComponentName": "ComponentProductsC3DVqIYj4DOwwcKu6SgqOgg",
+      "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentChunkName": "component---src-templates-product-js",
+      "context": {
+        "id": "c3DVqIYj4dOwwcKu6sgqOgg"
+      },
+      "updatedAt": 1517379703813,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "id": "SitePage /products/c3DVqIYj4dOwwcKu6sgqOgg/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c8347686b52c6cead8559726ed7210df",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/c4BqrajvA8E6qwgkieoqmqO/": {
+      "layout": "index",
+      "jsonName": "products-c-4-bqrajv-a-8-e-6-qwgkieoqmq-o.json",
+      "internalComponentName": "ComponentProductsC4BqrajvA8E6QwgkieoqmqO",
+      "path": "/products/c4BqrajvA8E6qwgkieoqmqO/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "componentChunkName": "component---src-templates-product-js",
+      "context": {
+        "id": "c4BqrajvA8E6qwgkieoqmqO"
+      },
+      "updatedAt": 1517379703814,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/product.js",
+      "id": "SitePage /products/c4BqrajvA8E6qwgkieoqmqO/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "59e7bfc47fdf04dd1cb51499339d6d1b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/c7LAnCobuuWYSqks6wAwY2a/": {
+      "layout": "index",
+      "jsonName": "categories-c-7-l-an-cobuu-wy-sqks-6-w-aw-y-2-a.json",
+      "internalComponentName": "ComponentCategoriesC7LAnCobuuWySqks6WAwY2A",
+      "path": "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "componentChunkName": "component---src-templates-category-js",
+      "context": {
+        "id": "c7LAnCobuuWYSqks6wAwY2a"
+      },
+      "updatedAt": 1517379703834,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "id": "SitePage /categories/c7LAnCobuuWYSqks6wAwY2a/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6507a3d4c0ac40136d9194610b784bb7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories/c24DPGBDeGEaYy8ms4Y8QMQ/": {
+      "layout": "index",
+      "jsonName": "categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json",
+      "internalComponentName": "ComponentCategoriesC24DpgbDeGEaYy8Ms4Y8Qmq",
+      "path": "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "componentChunkName": "component---src-templates-category-js",
+      "context": {
+        "id": "c24DPGBDeGEaYy8ms4Y8QMQ"
+      },
+      "updatedAt": 1517379703836,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/templates/category.js",
+      "id": "SitePage /categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5808cb19c929493268236a302b38fab9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /image-api/": {
+      "layout": "index",
+      "jsonName": "image-api.json",
+      "internalComponentName": "ComponentImageApi",
+      "path": "/image-api/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/image-api.js",
+      "componentChunkName": "component---src-pages-image-api-js",
+      "context": {},
+      "updatedAt": 1517379703858,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/image-api.js",
+      "id": "SitePage /image-api/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9c6c35029593701e273ef0a7740934e3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1517379703860,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/rupertdance/Code/contentful-testing/using-contentful/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "337e4927e5e94e2fc74c60ce55f701b9",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {
+      "gatsby-source-contentful": {
+        "i36bq3acg6sq": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYKOjPCmcK1FMOdw7YuKkrCiMOSSwvClD0EX8OsOzzDpsO0KcKuw4ArYcK5w43CtkTCmsKVwqjDtwliw6TDo2_Ctw1tYMO7FsOOPgXCrUJZAHzDlk3CtxXDvMKWwoHCmg"
+      }
+    },
+    "PLUGINS_HASH": "bcfd824079c9122202a0b7c4731643c1"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "c6dbjWqNd9SqccegcqYq224": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224productNameTextNode": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": [
+        "/products/c6dbjWqNd9SqccegcqYq224/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark": [
+        "/products/c6dbjWqNd9SqccegcqYq224/"
+      ],
+      "c10TkaLheGeQG6qQGqWYqUI": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/"
+      ],
+      "c651CQ8rLoIYCeY6G0QG22q": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+      ],
+      "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+      ],
+      "c7LAnCobuuWYSqks6wAwY2a": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c7LAnCobuuWYSqks6wAwY2atitleTextNode": [
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c5KsDBWseXY6QegucYAoacS": [
+        "/products/c5KsDBWseXY6QegucYAoacS/",
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
+      ],
+      "c5KsDBWseXY6QegucYAoacSproductNameTextNode": [
+        "/products/c5KsDBWseXY6QegucYAoacS/",
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+        "/"
+      ],
+      "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode": [
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode >>> MarkdownRemark": [
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "wtrHxeu3zEoEce2MokCSi": [
+        "/products/c5KsDBWseXY6QegucYAoacS/",
+        "/"
+      ],
+      "JrePkDVYomE8AwcuCUyMi": [
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": [
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "c24DPGBDeGEaYy8ms4Y8QMQ": [
+        "/products/c5KsDBWseXY6QegucYAoacS/",
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
+      ],
+      "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": [
+        "/products/c5KsDBWseXY6QegucYAoacS/",
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
+      ],
+      "c3DVqIYj4dOwwcKu6sgqOgg": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/"
+      ],
+      "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+      ],
+      "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+      ],
+      "Xc0ny7GWsMEMCeASWO2um": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqO": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode >>> MarkdownRemark": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "KTRF62Q4gg60q6WCsWKw8": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/",
+        "/"
+      ],
+      "c4LgMotpNF6W20YKmuemW0a": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "c6m5AJ9vMPKc8OUoQeoCS4o": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c6t4HKjytPi0mYgs240wkG": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "ContentfulAsset": [
+        "/image-api/"
+      ],
+      "ContentfulProduct": [
+        "/"
+      ]
+    }
+  }
+}
