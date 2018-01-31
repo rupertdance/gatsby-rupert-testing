@@ -537,12 +537,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-31T06:57:03.350Z",
+      "buildTime": "2018-01-31T22:38:27.876Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0eca3d0df349b50de439ae9361ee8e59",
+        "contentDigest": "6147756bad25064598b9e55464fd16a0",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -859,12 +859,12 @@
       "children": [
         "c5KsDBWseXY6QegucYAoacSproductNameTextNode >>> MarkdownRemark"
       ],
-      "productName": "Playsam Streamliner Classic Car, hella whut",
+      "productName": "12 Bottles, Red",
       "internal": {
         "type": "contentfulProductProductNameTextNode",
         "mediaType": "text/markdown",
-        "content": "Playsam Streamliner Classic Car, hella whut",
-        "contentDigest": "adfefbd5e7d3e5a2d6e89a89eeedae75",
+        "content": "12 Bottles, Red",
+        "contentDigest": "2270039442bde08c110e61a94dd88207",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -874,12 +874,12 @@
       "children": [
         "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode >>> MarkdownRemark"
       ],
-      "productDescription": "A classic Playsam design, the Streamliner Classic Car has been selected as Swedish Design Classic by the Swedish National Museum for its inventive style and sleek surface. It's no wonder that this wooden car has also been a long-standing favorite for children both big and small!",
+      "productDescription": "Red wine here",
       "internal": {
         "type": "contentfulProductProductDescriptionTextNode",
         "mediaType": "text/markdown",
-        "content": "A classic Playsam design, the Streamliner Classic Car has been selected as Swedish Design Classic by the Swedish National Museum for its inventive style and sleek surface. It's no wonder that this wooden car has also been a long-standing favorite for children both big and small!",
-        "contentDigest": "d27a98d8abd9865c279017aed14f2766",
+        "content": "Red wine here",
+        "contentDigest": "94ea5bfdbc2dfbcd6d049144e90af338",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1012,7 +1012,7 @@
       "id": "c5KsDBWseXY6QegucYAoacS",
       "contentful_id": "5KsDBWseXY6QegucYAoacS",
       "createdAt": "2018-01-31T04:38:54.067Z",
-      "updatedAt": "2018-01-31T04:57:42.084Z",
+      "updatedAt": "2018-01-31T22:36:12.861Z",
       "parent": "Product",
       "children": [
         "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
@@ -1020,7 +1020,7 @@
       ],
       "internal": {
         "type": "ContentfulProduct",
-        "contentDigest": "a0bb601739c899017acae8d5a86a51fc",
+        "contentDigest": "695b6e9a0cd2cbce504fba57a8859478",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1590,8 +1590,8 @@
       "children": [],
       "parent": "c5KsDBWseXY6QegucYAoacSproductNameTextNode",
       "internal": {
-        "content": "Playsam Streamliner Classic Car, hella whut",
-        "contentDigest": "3628280247a301676b0ba67160e18882",
+        "content": "12 Bottles, Red",
+        "contentDigest": "cbbd901778bbf03b50bed54646043eeb",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1607,8 +1607,8 @@
       "children": [],
       "parent": "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode",
       "internal": {
-        "content": "A classic Playsam design, the Streamliner Classic Car has been selected as Swedish Design Classic by the Swedish National Museum for its inventive style and sleek surface. It's no wonder that this wooden car has also been a long-standing favorite for children both big and small!",
-        "contentDigest": "8ddd8b5736abfa7a5cb57b2e439cd356",
+        "content": "Red wine here",
+        "contentDigest": "b1821b45afccf7fb1f5f28f5af0c2614",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1731,7 +1731,7 @@
       "context": {
         "id": "c5KsDBWseXY6QegucYAoacS"
       },
-      "updatedAt": 1517381829041,
+      "updatedAt": 1517438318687,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
@@ -1740,7 +1740,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75a67748f65cf5489b4fec4dac0db037",
+        "contentDigest": "dd50a84da563df9661cd556a93514794",
         "owner": "internal-data-bridge"
       }
     },
@@ -1754,7 +1754,7 @@
       "context": {
         "id": "c6dbjWqNd9SqccegcqYq224"
       },
-      "updatedAt": 1517381829042,
+      "updatedAt": 1517438318688,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
@@ -1763,7 +1763,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "687ed90da15bdb15cb401d0c56238502",
+        "contentDigest": "9162e55861f44396d695fe4d41f89817",
         "owner": "internal-data-bridge"
       }
     },
@@ -1777,7 +1777,7 @@
       "context": {
         "id": "c3DVqIYj4dOwwcKu6sgqOgg"
       },
-      "updatedAt": 1517381829043,
+      "updatedAt": 1517438318688,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
@@ -1786,7 +1786,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "018e3cb8306a7abf463f7714cb949c1f",
+        "contentDigest": "aeb4c07b12c5d19117ab3231f9330fd9",
         "owner": "internal-data-bridge"
       }
     },
@@ -1800,7 +1800,7 @@
       "context": {
         "id": "c4BqrajvA8E6qwgkieoqmqO"
       },
-      "updatedAt": 1517381829043,
+      "updatedAt": 1517438318689,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/product.js",
@@ -1809,7 +1809,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9bbddfb4984c1b7b9b99c58f81c42249",
+        "contentDigest": "083ee2e1cfbde6699394986ec6e69363",
         "owner": "internal-data-bridge"
       }
     },
@@ -1823,7 +1823,7 @@
       "context": {
         "id": "c7LAnCobuuWYSqks6wAwY2a"
       },
-      "updatedAt": 1517381829053,
+      "updatedAt": 1517438318700,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/category.js",
@@ -1832,7 +1832,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fe16068b2de60680b2482b1c2ba5e815",
+        "contentDigest": "7c7a34575f46c2b1b7d70676cc14c96e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1846,7 +1846,7 @@
       "context": {
         "id": "c24DPGBDeGEaYy8ms4Y8QMQ"
       },
-      "updatedAt": 1517381829054,
+      "updatedAt": 1517438318701,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/templates/category.js",
@@ -1855,7 +1855,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a0251a8e860fe186747feaeecd23d521",
+        "contentDigest": "71c9ec51916b60ff595751fd2a44b00e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1867,7 +1867,7 @@
       "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/image-api.js",
       "componentChunkName": "component---src-pages-image-api-js",
       "context": {},
-      "updatedAt": 1517381829063,
+      "updatedAt": 1517438318714,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/image-api.js",
@@ -1876,7 +1876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb7d163a1565c2fdacbd36b50ae8ee32",
+        "contentDigest": "75e896b17ef95a6def14f0a31dccd0bc",
         "owner": "internal-data-bridge"
       }
     },
@@ -1888,7 +1888,7 @@
       "component": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1517381829064,
+      "updatedAt": 1517438318716,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/rupertdance/Code/contentful-testing/gatsby-rupert-testing/src/pages/index.js",
@@ -1897,7 +1897,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "94bca40ebba31af92d1bf300f3785273",
+        "contentDigest": "e22dc25606520fcab9aa1bfb1272878e",
         "owner": "internal-data-bridge"
       }
     }
@@ -1905,7 +1905,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "i36bq3acg6sq": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYKOjPCmcK1FMOdw7YuKkrCiMOSSwvClD0EX8OsOzzDpsO0KcKuw4ArYcK5w43CtkTCmsKVwqjDtwliw6TDo2_Ctw1tYMO7FsOOPgXCrUJZAHzDlk3CtxXDvMKWwoHCmg"
+        "i36bq3acg6sq": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDtMORwqzCo8OAwqLCscK3wp5_E8KDw6AjCSQwwoAHw7RKwrIEfFlLdcOewpnDm2HCqMONwogyfF4zFsOsw7Z9IMK2S0HDscOGLMK_w7hXwrV9woguw6PDm2lYbCcuwrU"
       }
     },
     "PLUGINS_HASH": "bcfd824079c9122202a0b7c4731643c1"
